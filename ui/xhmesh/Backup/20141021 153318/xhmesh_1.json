@@ -1,0 +1,190 @@
+{
+  "version": "1.0.0.0",
+  "designWidth": 960,
+  "designHeight": 640,
+  "dataScale": 1.0,
+  "textures": [],
+  "texturesPng": [],
+  "nodeTree": {
+    "options": {
+      "$type": "EditorCommon.JsonModel.Component.GUI.RootGUISurrogate, EditorCommon",
+      "visible": true,
+      "frameEvent": null,
+      "name": "Node",
+      "classname": "Node"
+    },
+    "children": [
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.SpriteSurrogate, EditorCommon",
+          "fileName": "window/windowbg/window_book.png",
+          "fileNameData": {
+            "resourceType": 0,
+            "path": "window/windowbg/window_book.png",
+            "plistFile": ""
+          },
+          "x": 239.0,
+          "y": 319.0,
+          "visible": true,
+          "classType": "Sprite",
+          "actionTag": 372215039,
+          "tag": 43,
+          "name": "Sprite_7",
+          "classname": "Sprite"
+        },
+        "children": [],
+        "classname": "Sprite"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.SpriteSurrogate, EditorCommon",
+          "fileName": "window/windowbg/window_book.png",
+          "fileNameData": {
+            "resourceType": 0,
+            "path": "window/windowbg/window_book.png",
+            "plistFile": ""
+          },
+          "x": 717.0,
+          "y": 320.0,
+          "visible": true,
+          "classType": "Sprite",
+          "actionTag": 447698149,
+          "tag": 44,
+          "name": "Sprite_8",
+          "classname": "Sprite"
+        },
+        "children": [],
+        "classname": "Sprite"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.SpriteSurrogate, EditorCommon",
+          "fileName": "window/windowbg/window_book_center.png",
+          "fileNameData": {
+            "resourceType": 0,
+            "path": "window/windowbg/window_book_center.png",
+            "plistFile": ""
+          },
+          "x": 477.0,
+          "y": 318.0,
+          "visible": true,
+          "classType": "Sprite",
+          "actionTag": 802193040,
+          "tag": 45,
+          "name": "Sprite_9",
+          "classname": "Sprite"
+        },
+        "children": [],
+        "classname": "Sprite"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.SpriteSurrogate, EditorCommon",
+          "fileName": "window/windowbg/window_title_bg.png",
+          "fileNameData": {
+            "resourceType": 0,
+            "path": "window/windowbg/window_title_bg.png",
+            "plistFile": ""
+          },
+          "x": 474.0,
+          "y": 611.0,
+          "visible": true,
+          "classType": "Sprite",
+          "actionTag": 650868907,
+          "tag": 46,
+          "name": "Sprite_10",
+          "classname": "Sprite"
+        },
+        "children": [],
+        "classname": "Sprite"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.SpriteSurrogate, EditorCommon",
+          "fileName": "window/titlename/title_bangpai.png",
+          "fileNameData": {
+            "resourceType": 0,
+            "path": "window/titlename/title_bangpai.png",
+            "plistFile": ""
+          },
+          "x": 492.0,
+          "y": 605.0,
+          "visible": true,
+          "classType": "Sprite",
+          "actionTag": 656583814,
+          "tag": 47,
+          "name": "Sprite_11",
+          "classname": "Sprite"
+        },
+        "children": [],
+        "classname": "Sprite"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.SpriteSurrogate, EditorCommon",
+          "fileName": "window/window_shadow.png",
+          "fileNameData": {
+            "resourceType": 0,
+            "path": "window/window_shadow.png",
+            "plistFile": ""
+          },
+          "x": 194.0,
+          "y": 203.0,
+          "visible": true,
+          "classType": "Sprite",
+          "actionTag": 227621795,
+          "tag": 49,
+          "name": "Sprite_13",
+          "classname": "Sprite"
+        },
+        "children": [],
+        "classname": "Sprite"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.ButtonSurrogate, EditorCommon",
+          "normalData": {
+            "resourceType": 0,
+            "path": "GUI/button.png",
+            "plistFile": ""
+          },
+          "pressedData": {
+            "resourceType": 0
+          },
+          "disabledData": {
+            "resourceType": 0
+          },
+          "text": "关闭",
+          "fontSize": 20,
+          "capInsetsWidth": 1.0,
+          "capInsetsHeight": 1.0,
+          "scale9Width": 103.0,
+          "scale9Height": 40.0,
+          "x": 876.0,
+          "y": 600.0,
+          "touchAble": true,
+          "visible": true,
+          "classType": "Button",
+          "width": 103.0,
+          "height": 40.0,
+          "positionPercentX": 1.825,
+          "positionPercentY": 1.875,
+          "sizePercentX": 0.214583337,
+          "sizePercentY": 0.125,
+          "actionTag": 230661512,
+          "tag": 50,
+          "ignoreSize": true,
+          "name": "Button_14",
+          "classname": "Button"
+        },
+        "children": [],
+        "classname": "Button"
+      }
+    ],
+    "classname": "Node"
+  },
+  "action": {
+    "speed": 1.0,
+    "timelines": []
+  }
+}

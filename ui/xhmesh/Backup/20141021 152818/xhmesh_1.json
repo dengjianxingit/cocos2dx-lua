@@ -1,0 +1,87 @@
+{
+  "version": "1.0.0.0",
+  "designWidth": 960,
+  "designHeight": 640,
+  "dataScale": 1.0,
+  "textures": [],
+  "texturesPng": [],
+  "nodeTree": {
+    "options": {
+      "$type": "EditorCommon.JsonModel.Component.GUI.RootGUISurrogate, EditorCommon",
+      "visible": true,
+      "frameEvent": null,
+      "name": "Node",
+      "classname": "Node"
+    },
+    "children": [
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.SpriteSurrogate, EditorCommon",
+          "fileName": "window/windowbg/window_title_bg.png",
+          "fileNameData": {
+            "resourceType": 0,
+            "path": "window/windowbg/window_title_bg.png",
+            "plistFile": ""
+          },
+          "x": 503.0,
+          "y": 619.0,
+          "visible": true,
+          "classType": "Sprite",
+          "actionTag": 111931379,
+          "tag": 39,
+          "name": "Sprite_3",
+          "classname": "Sprite"
+        },
+        "children": [],
+        "classname": "Sprite"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.SpriteSurrogate, EditorCommon",
+          "fileName": "window/windowbg/window_extra_edge.png",
+          "fileNameData": {
+            "resourceType": 0,
+            "path": "window/windowbg/window_extra_edge.png",
+            "plistFile": ""
+          },
+          "x": 6.0,
+          "y": 358.0,
+          "visible": true,
+          "classType": "Sprite",
+          "actionTag": 997603699,
+          "tag": 40,
+          "name": "Sprite_4",
+          "classname": "Sprite"
+        },
+        "children": [],
+        "classname": "Sprite"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.SpriteSurrogate, EditorCommon",
+          "fileName": "window/titlename/title_bangpai.png",
+          "fileNameData": {
+            "resourceType": 0,
+            "path": "window/titlename/title_bangpai.png",
+            "plistFile": ""
+          },
+          "x": 507.0,
+          "y": 614.0,
+          "visible": true,
+          "classType": "Sprite",
+          "actionTag": 913933317,
+          "tag": 41,
+          "name": "Sprite_5",
+          "classname": "Sprite"
+        },
+        "children": [],
+        "classname": "Sprite"
+      }
+    ],
+    "classname": "Node"
+  },
+  "action": {
+    "speed": 1.0,
+    "timelines": []
+  }
+}

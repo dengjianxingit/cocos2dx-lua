@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>/Users/dengdateshin/xhmesh/ui/xhmesh</ProjectDir>
+  <Version>1.0.0.0</Version>
+  <Resources>/Users/dengdateshin/xhmesh/ui/xhmesh/Resources</Resources>
+  <Name>xhmesh</Name>
+  <JsonFileName>xhmesh.json</JsonFileName>
+  <JsonFolder>/Users/dengdateshin/xhmesh/ui/xhmesh/Json</JsonFolder>
+  <JsonList>
+    <string>xhmesh_1.json</string>
+  </JsonList>
+  <filePath>/Users/dengdateshin/xhmesh/ui/xhmesh/xhmesh.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>xhmesh_1.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>
